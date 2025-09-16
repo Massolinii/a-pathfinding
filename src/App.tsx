@@ -21,7 +21,11 @@ function App() {
       <div className="center-panel">
         <div className="center-title-section">
           <h2>A* Pathfinding</h2>
-          <hr />
+          <h3>
+            Made by <a href="https://github.com/Massolinii">Massolinii</a> -
+            Source code on{" "}
+            <a href="https://github.com/Massolinii/a-pathfinding">GitHub</a>
+          </h3>
         </div>
         <Grid config={config} />
       </div>
