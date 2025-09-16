@@ -98,4 +98,4 @@ The binary heap keeps the open set sorted by f(n), making it efficient to always
 
 ## License
 
-MIT - use it for whatever you want.
+Free to use - that's what the internet is for :)
