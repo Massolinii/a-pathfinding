@@ -18,7 +18,6 @@ export const useMouseInteraction = ({
   onWallCreate,
   onWallRemove,
   onDragStateChange,
-  walls,
 }: UseMouseInteractionProps) => {
   const [isDragging, setIsDragging] = useState(false);
   const [dragType, setDragType] = useState<"create" | "remove">("create");
